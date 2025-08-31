@@ -51,7 +51,7 @@ This portfolio highlights my ability to work across the analytics stack:
 
 ## 📬 Connect with Me  
 - 💼 [LinkedIn]www.linkedin.com/in/saloniprasad29
-- 📂 [GitHub]  
+- 📂 [GitHub] https://github.com/saloniprasad29
 - ✉️ Email: saloniprasad29@gmail.com  
 
 ---
